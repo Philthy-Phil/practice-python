@@ -8,3 +8,9 @@ _python concepts:_
 - modular arithmetic
 - conditionals
 - checking equality
+
+### python-ex3-ListLessThanTen
+_python concepts:_
+- lists
+- more conditionals
+
