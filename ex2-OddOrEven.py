@@ -1,3 +1,5 @@
+__author__ = 'phil.ezb'
+
 num = int(input("what's ur number? "))
 
 if(num%2 == 0):

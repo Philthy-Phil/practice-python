@@ -1,3 +1,5 @@
+__author__ = 'phil.ezb'
+
 import datetime
 
 name = input("what's ur name? ")

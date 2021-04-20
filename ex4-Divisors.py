@@ -1,3 +1,5 @@
+__author__ = 'phil.ezb'
+
 num = int(input("type in a number: "))
 numRange = range(1, num + 1)
 noRemainders = []
