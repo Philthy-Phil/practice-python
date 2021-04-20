@@ -22,5 +22,5 @@ _python concepts:_
 
 ### python-ex5-ListOverlap
 _python concepts:_
-- copmare lists
+- compare lists
 - conditionals
