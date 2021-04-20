@@ -14,3 +14,9 @@ _python concepts:_
 - lists
 - more conditionals
 
+### python-ex4-Divisors
+_python concepts:_
+- lists
+- conditionals
+- getting user input
+
