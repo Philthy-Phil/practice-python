@@ -24,3 +24,9 @@ _python concepts:_
 _python concepts:_
 - compare lists
 - conditionals
+
+### python-ex6-StringLists
+_python concepts:_
+- list indexing
+- strings are lists
+  
