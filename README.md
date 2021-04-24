@@ -30,3 +30,7 @@ _python concepts:_
 - list indexing
 - strings are lists
   
+### python-ex7-ListComprehensions
+_python concepts:_
+- list comprehensions
+
